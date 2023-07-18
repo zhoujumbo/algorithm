@@ -12,6 +12,12 @@ public class E303 {
         return 1;
     }
 
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{1,2};
+        E303 e303 = new E303(nums);
+    }
+
 }
 
 
